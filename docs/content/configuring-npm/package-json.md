@@ -1031,6 +1031,6 @@ npm will default some values based on package contents.
 * [npm version](/commands/npm-version)
 * [npm config](/commands/npm-config)
 * [npm help](/commands/npm-help)
-* [npm install](/commands/npm-install)
+
 * [npm publish](/commands/npm-publish)
 * [npm uninstall](/commands/npm-uninstall)
